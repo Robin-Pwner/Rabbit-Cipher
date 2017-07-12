@@ -2,6 +2,7 @@
 Rabbit stream cipher implementation in Python
 
 Rabbit cipher introduction
+
 useful links: http://cr.yp.to/streamciphers/rabbit/desc.pdf 
 https://tools.ietf.org/html/rfc4503
 
